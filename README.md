@@ -1,1 +1,2 @@
 # Celebrity-Face-Recognition
+This project aims to classify sports personalities among five well-known individuals: Maria Sharapova, Serena Williams, Virat Kohli, Roger Federer, and Lionel Messi. It utilizes Python, NumPy, OpenCV, Matplotlib, Seaborn, Sklearn, and Flask for data cleaning, visualization, model building, and serving. The project is structured into UI, server, model, google_image_scrapping, and images_dataset folders, leveraging HTML/CSS/Javascript for the UI, Python Flask for the server, and Jupyter notebooks for model development.
